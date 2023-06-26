@@ -1,3 +1,3 @@
 # Encriptador
 
-Finalizado 
+Proceso
